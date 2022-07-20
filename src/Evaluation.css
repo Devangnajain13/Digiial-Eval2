@@ -1,0 +1,16 @@
+.tab1{
+    display: inline-block;
+    margin-left: 300px;
+}
+.tab2{
+    display: inline-block;
+    margin-left: 300px;
+}
+.table{
+    height: 50px;
+    width: 50px;
+}
+.span
+{
+    align-content: center;
+}

@@ -1,0 +1,36 @@
+/*.{
+    padding:0px;
+    margin:0px;
+}*/
+.header{
+    background:#415e9b;
+    height: 82px;
+    border-bottom: 1px solid #133783;
+    color: white;
+    text-align: left;
+    padding-top:30px;
+    
+ 
+}
+.email{
+    color:black;
+   float:left;
+   margin: right 100px;
+   height:100%;
+   width:100%;
+   
+}
+.clearfix{
+    clear:both;
+}
+.f-connect{
+    margin-top:100px;
+    font-size:25px;
+
+}
+.content{
+    width:992px;
+    margin:0 auto;
+}
+   
+    
